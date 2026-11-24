@@ -10,7 +10,7 @@
 
 ## 示例
 
-都会区圆标通过引线接回地图落点，是元素连接的设计示例。均一连接可见于地图上连通的同色面。 [Fortune 500 都会区营收图](../02-信息图形类型案例/01-混合型信息图形/Fortune500都会区营收案例.md)
+都会区圆标通过引线接回地图落点，是元素连接的设计示例。均一连接可见于地图上连通的同色面。 [Fortune 500 都会区营收图](../../02-信息图形类型案例/01-混合型信息图形/Fortune500都会区营收案例.md)
 
 ## 设计分析
 
@@ -24,4 +24,4 @@
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf) · [Palmer 与 Rock，1994，均一连接原始研究](https://pubmed.ncbi.nlm.nih.gov/24203413/)
 
-[返回目录](README.md)
+[返回目录](../README.md)

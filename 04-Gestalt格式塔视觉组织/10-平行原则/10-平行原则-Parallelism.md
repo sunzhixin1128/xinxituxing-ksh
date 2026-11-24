@@ -24,4 +24,4 @@
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf)
 
-[返回目录](README.md)
+[返回目录](../README.md)
