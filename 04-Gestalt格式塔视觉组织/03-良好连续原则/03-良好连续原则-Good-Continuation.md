@@ -34,4 +34,8 @@
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf) · [Wertheimer，1923，知觉形式的组织规律（1938 英译）](https://psychclassics.yorku.ca/Wertheimer/Forms/forms.htm)
 
+## 案例图与设计实践
+
+[查看本专题的案例图片、视觉组织分析与设计实践](案例分析.md)
+
 [返回目录](../README.md)

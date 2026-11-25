@@ -34,4 +34,8 @@
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf) · [Palmer，1992，共同区域原始研究](https://pubmed.ncbi.nlm.nih.gov/1516361/)
 
+## 案例图与设计实践
+
+[查看本专题的案例图片、视觉组织分析与设计实践](案例分析.md)
+
 [返回目录](../README.md)

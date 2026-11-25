@@ -34,4 +34,8 @@ Prägnanz 描述知觉在给定条件下趋向形成较稳定、容易把握的�
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf) · [Van Geert 与 Wagemans，2024，良好形态原则综述](https://pubmed.ncbi.nlm.nih.gov/37787874/)
 
+## 案例图与设计实践
+
+[查看本专题的案例图片、视觉组织分析与设计实践](案例分析.md)
+
 [返回目录](../README.md)

@@ -34,4 +34,8 @@
 
 [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf) · [Wertheimer，1923，知觉形式的组织规律（1938 英译）](https://psychclassics.yorku.ca/Wertheimer/Forms/forms.htm)
 
+## 静态案例中的方向线索
+
+下面三例适合观察静态排列怎样暗示方向。检验共同命运时，可用连续画面对照，判断组内标记是否随时间以相近方式移动。 [G15 鱼群聚形](../04-闭合原则/案例分析.md#g15) · [G22 鱼群汇聚](../03-良好连续原则/案例分析.md#g22) · [G33 反向鱼](../16-边界对比与视觉情境/案例分析.md#g33)
+
 [返回目录](../README.md)
