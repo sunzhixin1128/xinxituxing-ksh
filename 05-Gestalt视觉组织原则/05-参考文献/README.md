@@ -1,0 +1,38 @@
+# 15 参考文献与术语对照
+
+## 参考文献
+
+- [Wertheimer，1923，知觉形式的组织规律（1938 英译）](https://psychclassics.yorku.ca/Wertheimer/Forms/forms.htm)
+- [Wagemans 等，2012，视觉组织综述](https://elderlab.yorku.ca/wp-content/uploads/2016/12/WagemansPsychBull12.pdf)
+- [Palmer，1992，共同区域原始研究](https://pubmed.ncbi.nlm.nih.gov/1516361/)
+- [Palmer 与 Rock，1994，均一连接原始研究](https://pubmed.ncbi.nlm.nih.gov/24203413/)
+- [Van Geert 与 Wagemans，2024，良好形态原则综述](https://pubmed.ncbi.nlm.nih.gov/37787874/)
+
+## 用户提供的课件
+
+- 《交互信息设计_编辑版(1).pdf》，第 30–45 页。§6.1 讨论亮度、颜色与轮廓辨识，§6.2 讨论格式塔与模式识别，§6.3–6.4 讨论图表感知任务，§6.5 列出前景/背景识别等视觉任务。各专题以 PDF 文件页码定位图例。目录中的图片裁自课件相应页，保留示例画面。 [课件章节对照](../00-Gestalt概念与分类框架.md#课件章节对照)
+
+## 中英文术语
+
+| 中文 | English |
+| --- | --- |
+| 接近原则 | Proximity |
+| 相似原则 | Similarity |
+| 良好连续原则 | Good Continuation |
+| 闭合原则 | Closure |
+| 共同区域原则 | Common Region |
+| 连接原则 | Connectedness |
+| 共同命运原则 | Common Fate |
+| 同步原则 | Synchrony |
+| 对称原则 | Symmetry |
+| 平行原则 | Parallelism |
+| 图底组织 | Figure Ground |
+| 简洁与良好形态原则 | Prägnanz |
+| 元素连接 | Element Connectedness |
+| 均一连接 | Uniform Connectedness |
+| 广义共同命运 | Generalized Common Fate |
+| 知觉分组 | Perceptual Grouping |
+
+Pragnanz 是本仓库文件名使用的无变音符拼写，正文保留 Prägnanz。
+
+[返回目录](../README.md)
